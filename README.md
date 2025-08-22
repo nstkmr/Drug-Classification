@@ -11,7 +11,7 @@ This project demonstrates:
 - Comparing model performance
 - Evaluating results with accuracy and other metrics
 
-The notebook `Ex_06_Drug.ipynb` contains all steps in detail.
+The notebook `Drug-Classification.ipynb` contains all steps in detail.
 
 ---
 
